@@ -6,5 +6,8 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #sqli-labs
 #ctfd/ctfd
-acgpiano/sqli-labs
-iwebsec/iwebsec 
+#acgpiano/sqli-labs
+#iwebsec/iwebsec 
+ctfd/ctfd
+sagikazarmark/dvwa
+vulfocus/vulfocus
