@@ -8,6 +8,6 @@
 #ctfd/ctfd
 #acgpiano/sqli-labs
 #iwebsec/iwebsec 
-ctfd/ctfd
-sagikazarmark/dvwa
-vulfocus/vulfocus
+#ctfd/ctfd
+vulnerables/web-dvwa
+#vulfocus/vulfocus
