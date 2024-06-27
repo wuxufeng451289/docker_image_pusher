@@ -11,5 +11,5 @@
 #ctfd/ctfd
 #vulnerables/web-dvwa
 #vulfocus/vulfocus                                   
-vulhub/thinkphp                                      
+vulhub/thinkphp                                    
 
