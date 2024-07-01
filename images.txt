@@ -12,7 +12,7 @@ iwebsec/iwebsec
 #vulnerables/web-dvwa
 #vulfocus/vulfocus                                   
 #vulhub/thinkphp                                    
-chainguard/calico-cni
-#rancher/calico-pod2daemon-flexvol
-#rancher/calico-node
-#rancher/calico-kube-controllers
+#chainguard/calico-cni
+chainguard/calico-pod2daemon-flexvol
+chainguard/calico-node
+chainguard/calico-kube-controllers
