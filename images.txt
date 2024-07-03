@@ -13,6 +13,17 @@ iwebsec/iwebsec
 #vulfocus/vulfocus                                   
 #vulhub/thinkphp                                    
 #chainguard/calico-cni
-chainguard/calico-pod2daemon-flexvol
-chainguard/calico-node
-chainguard/calico-kube-controllers
+#chainguard/calico-pod2daemon-flexvol
+#chainguard/calico-node
+#chainguard/calico-kube-controllers
+#drupalci/mysql-5.7
+mysql:5.7
+redis:7
+nginx:1.22
+#nfqlt/redis70
+#dev2sworks/2snginx
+rabbitmq:3.9-management
+elasticsearch:7.17.3
+logstash:7.17.3
+pull kibana:7.17.3
+mongo:4
