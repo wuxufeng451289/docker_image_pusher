@@ -25,5 +25,6 @@ iwebsec/iwebsec
 #rabbitmq:3.9-management
 #elasticsearch:7.17.3
 #logstash:7.17.3
-kibana:7.17.3
-mongo:4
+#kibana:7.17.3
+#mongo:4
+minio/minio
