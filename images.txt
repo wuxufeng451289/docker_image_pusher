@@ -28,4 +28,5 @@ iwebsec/iwebsec
 #kibana:7.17.3
 #mongo:4
 #minio/minio
-jenkins/jenkins:lts
+#jenkins/jenkins:lts
+openjdk
