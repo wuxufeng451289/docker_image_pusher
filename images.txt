@@ -30,4 +30,6 @@ iwebsec/iwebsec
 #minio/minio
 #jenkins/jenkins:lts
 #openjdk
-gogs/gogs
+#gogs/gogs
+kicbase/stable
+
