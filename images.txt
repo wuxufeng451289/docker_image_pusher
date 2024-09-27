@@ -7,7 +7,7 @@
 #sqli-labs
 #ctfd/ctfd
 #acgpiano/sqli-labs
-iwebsec/iwebsec 
+#iwebsec/iwebsec 
 #ctfd/ctfd
 #vulnerables/web-dvwa
 #vulfocus/vulfocus                                   
