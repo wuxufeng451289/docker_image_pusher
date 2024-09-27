@@ -31,4 +31,5 @@ iwebsec/iwebsec
 #jenkins/jenkins:lts
 #openjdk
 #gogs/gogs
-kicbase/stable
+#kicbase/stable
+kicbase/build
