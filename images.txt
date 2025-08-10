@@ -34,4 +34,5 @@
 #kicbase/stable
 #kicbase/build
 #nacos/nacos-server:v2.3.0
-rabbitmq:3.9.11-management
+#rabbitmq:3.9.11-management
+kicbase/stable:v0.0.44
